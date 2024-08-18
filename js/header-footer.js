@@ -133,7 +133,7 @@ function getNavbarFooter() {
         <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
             <svg class="bi" width="30" height="24"><use xlink:href="http://terrapexy.com/aboue-me.html"></use></svg>
         </a>
-        <span class="mb-3 mb-md-0 text-muted">Created by Tyee Fellows © 2023 </span>
+        <span class="mb-3 mb-md-0 text-muted">Created by Tyee Fellows © 2024 </span>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
@@ -143,7 +143,7 @@ function getNavbarFooter() {
             </a>
         </li> -->
         <li class="ms-3">
-            <a href="mailto:tyee.fellows@medportal.ca" class="text-muted">
+            <a href="mailto:tyeekfellows@gmail.com" class="text-muted">
                 <i title="Email" class="bi bi-envelope-fill"></i>
             </a>
         </li>
